@@ -1,0 +1,14 @@
+{
+  "name": "ircra_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joe Snell <joepsnell@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ircra": "latest",
+    "micro": "latest"
+  },
+  "scripts": {
+    "start": "micro"
+  }
+}
