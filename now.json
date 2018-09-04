@@ -2,5 +2,6 @@
 	"public": true,
 	"features": {
 		"cloud": "v2"
-	}
+	},
+	"alias": "ircra.topout.app"
 }
